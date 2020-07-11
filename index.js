@@ -24,8 +24,10 @@ console.log(fifaData[828]["Win conditions"]); // Winner
 function getFinals( /* code here */ ) {
 
 
-
-};
+    
+}
+   
+getFinals();
 
 /* Task 3: Implement a higher-order function called `getYears` that accepts the callback function `getFinals`, and returns an array called `years` containing all of the years in the dataset */
 
@@ -33,7 +35,7 @@ function getYears( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 getYears();
 
@@ -43,7 +45,7 @@ function getWinners( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 getWinners();
 
@@ -56,7 +58,7 @@ Parameters:
 
 function getWinnersByYear( /* code here */ ) {
 
-};
+}
 
 getWinnersByYear();
 
@@ -66,7 +68,7 @@ function getAverageGoals( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 getAverageGoals();
 
@@ -81,7 +83,7 @@ function getCountryWins( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 getCountryWins();
 
@@ -92,7 +94,7 @@ function getGoals( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 getGoals();
 
@@ -103,7 +105,7 @@ function badDefense( /* code here */ ) {
 
     /* code here */
 
-};
+}
 
 badDefense();
 
